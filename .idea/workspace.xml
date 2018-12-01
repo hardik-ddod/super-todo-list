@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd2fb89b-c0e4-41dd-a7bf-84e9da9e92c3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/model/TaskEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/model/TaskEntry.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,23 +14,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/manager.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/ui/TaskList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            <state>
+              <caret lean-forward="true" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/model/TaskEntry.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/ui/TaskList.java">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/contact.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+              <folding>
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#458#459#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#533#534#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
+                <element signature="e#656#657#0" expanded="true" />
+                <element signature="e#702#703#0" expanded="true" />
+                <element signature="e#738#739#0" expanded="true" />
+                <element signature="e#826#827#0" expanded="true" />
+                <element signature="e#865#866#0" expanded="true" />
+                <element signature="e#911#912#0" expanded="true" />
+                <element signature="e#947#948#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -40,6 +59,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/manager.java" />
+        <option value="$PROJECT_DIR$/src/main/model/TaskEntry.java" />
+        <option value="$PROJECT_DIR$/src/main/contact.java" />
       </list>
     </option>
   </component>
@@ -79,20 +100,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="super-todo-list" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-todo-list" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="super-todo-list" type="b2602c69:ProjectViewProjectNode" />
-              <item name="super-todo-list" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -102,7 +109,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543701135101" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543707765536" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -129,12 +136,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543692803807</updated>
-      <workItem from="1543692805149" duration="1703000" />
+      <workItem from="1543692805149" duration="4038000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1703000" />
+    <option name="totallyTimeSpent" value="4038000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="19" y="49" width="1400" height="837" extended-state="0" />
@@ -177,16 +184,49 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/model/TaskEntry.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/ui/TaskList.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/manager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/model/TaskEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ui/TaskList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/contact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+          <folding>
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#826#827#0" expanded="true" />
+            <element signature="e#865#866#0" expanded="true" />
+            <element signature="e#911#912#0" expanded="true" />
+            <element signature="e#947#948#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
