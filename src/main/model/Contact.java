@@ -8,6 +8,21 @@ public class Contact {
 
 // getter and setter functions for phoneNumber
 
+    public Contact(long phoneNumber, String contactName, String contactEmail){
+        this.phoneNumber = phoneNumber;
+        this.contactName = contactName;
+        this.contactEmail = contactEmail;
+        contactImage = null;
+    }
+
+    public Contact(){
+        phoneNumber = 0;
+        contactName = null;
+        contactEmail = null;
+        contactImage = null;
+
+    }
+
     public long getPhoneNumber(){
         return phoneNumber;
     }
@@ -33,9 +48,9 @@ public class Contact {
         return contactEmail;
     }
 
-    public void setContactEmail (String x) {
-        contactEmail = x;
-    }
+//    public void setContactEmail (String x) {
+//        contactEmail = x;
+//    }
 
 
 // getter and setter functions for contactImage
@@ -44,7 +59,7 @@ public class Contact {
         return contactImage;
     }
 
-    public void setContactImage (String x) {
-        contactImage = x;
-    }
+//    public void setContactImage (String x) {
+//        contactImage = x;
+//    }
 }
