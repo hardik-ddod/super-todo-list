@@ -1,0 +1,7 @@
+.button {
+    -fx-background-radius: 200em;
+    -fx-min-width: 200px;
+    -fx-min-height: 200px;
+    -fx-max-width: 200px;
+    -fx-max-height: 200px;
+}
