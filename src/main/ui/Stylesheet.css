@@ -4,4 +4,31 @@
     -fx-min-height: 200px;
     -fx-max-width: 200px;
     -fx-max-height: 200px;
+    -fx-background-color: #fafafa;
+    -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.4) , 4, 0.0 , 0 , 1 );
+}
+
+.button:hover {
+    -fx-background-color: #f2f2f2;
+    -fx-cursor: hand;
+}
+
+#regular {
+    -fx-background-radius: 4px;
+    -fx-min-width: 0px;
+    -fx-min-height: 0px;
+    -fx-max-width: 150px;
+    -fx-max-height: 50px;
+}
+
+.label {
+    -fx-font-family: "Whitney HTF";
+    -fx-text-fill: #333399;
+    -fx-font-size: 75px;
+    -fx-padding: 0 0 0 160;
+}
+
+#header {
+    -fx-font-size: 20px;
+    -fx-padding: 0 0 0 0;
 }
